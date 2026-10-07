@@ -1,0 +1,56 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.head,
+
+.footer {
+    background-color: #1F2937;
+}
+.sub-head {
+     background-color: #1F2937;
+}
+
+.head {
+    font-size: 24px;
+    color: #f9faf8
+}
+
+.sub-head {
+
+}
+
+.sub {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.sub-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.text {
+    background-color: #3882F6;
+}
+
+.heading {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.main {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.footer{
+     color: #f9faf8;
+}
+
